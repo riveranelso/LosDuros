@@ -18,7 +18,6 @@ This rule applies to images, videos, thumbnails, covers, presentations, mockups,
 Status: ACTIVE
 Owner: Nelson Rivera
 
-
 ## Logo Reference Hierarchy
 
 ### Primary / master logo
@@ -36,4 +35,27 @@ Owner: Nelson Rivera
 - Do NOT import "NEWS", "Noticias en un Minuto", usernames, people, portraits, or other secondary artwork into the main Los Duros logo.
 - Any horizontal version is a derived brand asset and requires approval before it can be treated as an official locked asset.
 
-Status: ACTIVE
+## Cross-Brand Asset Gate — MANDATORY
+
+This rule also applies whenever Los Duros appears inside a multi-brand diagram, Nelson Clone / Full Nelson AI visual, dashboard, workflow, presentation, or other brand ecosystem.
+
+- NEVER generate a placeholder, invented, approximate, stylized, or text-only fake logo for Los Duros.
+- Before rendering a multi-brand visual, retrieve the approved brand asset for EVERY brand shown.
+- If the exact approved asset for Los Duros is not retrievable in the current render context, OMIT the logo. Use the plain brand name only if needed for labeling.
+- Never borrow a logo, icon, monogram, crown, badge, or symbol from another brand.
+- Do not infer a logo from memory, brand colors, initials, or prior AI-generated artwork.
+- AI-generated recreations are references only and can NEVER silently become official assets.
+- Any visual that violates this gate is INVALID and must not be published or treated as approved.
+- The same locked-asset principle must be enforced for SCAN Water Intelligence, ZeroLag WiFi, Zmart Consumer Rights, and Nelson Clone / Full Nelson AI whenever their approved assets are available.
+- Brand identities must remain isolated: no mixing Los Duros, SCAN, ZeroLag, Zmart, Yek Family, Zmart Home, or Nelson Clone marks.
+
+### Pre-render validation
+1. Resolve the brand list required by the visual.
+2. Resolve each approved logo asset/reference.
+3. Verify exact brand-to-asset mapping.
+4. Render only verified assets.
+5. Missing asset = omit mark; NEVER fabricate.
+6. After render, reject output if any brand mark is invented, altered, duplicated incorrectly, or assigned to the wrong brand.
+
+Status: ACTIVE — HARD GATE
+Owner: Nelson Rivera
