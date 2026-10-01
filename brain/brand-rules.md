@@ -59,3 +59,16 @@ This rule also applies whenever Los Duros appears inside a multi-brand diagram, 
 
 Status: ACTIVE — HARD GATE
 Owner: Nelson Rivera
+
+
+## Automation dependency — Asset Registry
+
+All automated creative/rendering workflows MUST load and enforce `brain/asset-registry.md` before generation. This is not optional.
+
+- Asset resolution happens BEFORE the image/video model.
+- The generation model must not recreate owned-brand or vendor logos.
+- Approved logos are applied as deterministic assets whenever possible.
+- Post-render validation must reject incorrect, fabricated, duplicated, or cross-assigned marks.
+- Current paid/operational automation infrastructure has priority over future Nelson Clone work.
+
+Status: ACTIVE — HARD GATE
