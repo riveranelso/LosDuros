@@ -17,3 +17,23 @@ This rule applies to images, videos, thumbnails, covers, presentations, mockups,
 
 Status: ACTIVE
 Owner: Nelson Rivera
+
+
+## Logo Reference Hierarchy
+
+### Primary / master logo
+- The first approved uploaded Los Duros con Los Duros image is the MASTER OFFICIAL LOGO and the source of truth for brand identity.
+- Preserve its identity exactly. Do not regenerate or approximate it.
+
+### Alternate logo reference
+- The second approved uploaded image is an alternate reference of the same official logo.
+- It may be used to verify proportions/composition, but it does not override the master asset.
+
+### Horizontal-layout reference
+- The approved "Los Duros News / Noticias en un Minuto" artwork is ONLY a composition/layout reference for creating a horizontal version of the main Los Duros con Los Duros logo.
+- It is NOT the main logo and must never replace it.
+- For a horizontal adaptation, preserve the main logo's red/white/black identity and recognizable typography/structure.
+- Do NOT import "NEWS", "Noticias en un Minuto", usernames, people, portraits, or other secondary artwork into the main Los Duros logo.
+- Any horizontal version is a derived brand asset and requires approval before it can be treated as an official locked asset.
+
+Status: ACTIVE
