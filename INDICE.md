@@ -11,7 +11,7 @@ Los tres archivos originales en `brain/` son la autoridad base y se conservan in
 - `brain/comment-rules.md` — protocolo de respuestas y dos fijos, CERO CHOTIAERA, preflight de 10 puntos.
 - `brain/asset-registry.md` — mapa de assets de marcas propias y herramientas, reglas de colocación, contrato de enforcement.
 
-Los archivos numerados `01–18` amplían ese núcleo con el contexto entregado por Nelson. Si hay conflicto entre la ampliación y los archivos originales, se conservan ambos antecedentes y el conflicto queda documentado en `FUENTES-Y-CAMBIOS.md`. No se sobrescribe silenciosamente.
+Los archivos numerados `01–19` amplían ese núcleo con el contexto entregado por Nelson. Si hay conflicto entre la ampliación y los archivos originales, se conservan ambos antecedentes y el conflicto queda documentado en `FUENTES-Y-CAMBIOS.md`. No se sobrescribe silenciosamente.
 
 ## Leyenda de categorías
 

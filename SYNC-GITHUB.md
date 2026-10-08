@@ -4,7 +4,8 @@
 
 - **Guardado localmente:** sí. Ampliación completa en `~/workspace/zion/los-duros/`.
 - **Preparado para GitHub:** sí. Ver manifiesto de adiciones abajo.
-- **Publicado en GitHub:** NO. El acceso actual es de solo lectura (fine-grained token, Contents: Read-only). No se afirmó ni se realizará publicación sin acceso de escritura autorizado.
+- **Publicado en GitHub:** SÍ. Ampliación publicada en `riveranelso/LosDuros@main`, commit `3333448eaff3305da8f609fb0f3187ed5b11d744` (2026-10-07), vía Claude Code con acceso de escritura autorizado.
+- **Verificación:** Muse verificó 27/27 archivos idénticos, sin faltantes.
 
 ## Manifiesto de adiciones propuestas (para cuando exista escritura autorizada)
 
@@ -41,7 +42,7 @@ Archivos que NO se tocan: `brain/brand-rules.md`, `brain/comment-rules.md`, `bra
 
 - Se preparó `los-duros-brain.zip` con toda la carpeta (originales + ampliación + índice + registros), verificado sin secretos.
 - Se entregó el bloque de instrucciones `CLAUDE-CODE-SYNC.md` para que Claude Code revise el diff, compruebe ausencia de secretos y publique con su acceso autorizado.
-- **Estado: guardado localmente, pendiente de GitHub.** No se marcará como publicado hasta verificar el commit y las rutas publicadas.
+- **Estado: publicado.** Commit `3333448eaff3305da8f609fb0f3187ed5b11d744` en `main` (24 archivos agregados en la raíz, ningún archivo existente modificado ni eliminado). Muse verificó 27/27 archivos idénticos, sin faltantes.
 
 ## Cobertura de esta entrega
 
