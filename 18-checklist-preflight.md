@@ -14,3 +14,16 @@ Propuesta para **complementar** el preflight existente de `brain/comment-rules.m
 10. Si hay visual, usé el asset oficial o marqué que falta.
 
 Autoridad: el preflight de 10 puntos en `brain/comment-rules.md` sigue vigente; este checklist lo complementa. Ver `FUENTES-Y-CAMBIOS.md`.
+
+
+## Gate de contexto y correcciones — 2026-10-10
+
+Antes de entregar cualquier respuesta o copy:
+- Si falta el contexto del post: preguntar «¿Cual es el post?» y esperar. No redactar a ciegas.
+- Confirmar protagonista/referente, sin inventar hechos, motivos o relaciones.
+- Aplicar las correcciones sin afirmar errores o menciones que no ocurrieron.
+- Si se pidio mejorar: comprobar una mejora real de gancho, claridad o enfoque.
+- Para fijos: exactamente dos funciones distintas; debate y compartir/seguir con razon concreta y CTA contextual, salvo que Nelson pida quitarlo.
+- Revisar PALABRAS CLAVE EN MAYUSCULAS, copy sin tildes y maximo un emoji por copy por defecto (📌 en etiqueta no cuenta).
+- No declarar sincronizacion o activacion en ZION sin verificar el runtime.
+La seccion «Correcciones obligatorias — Nelson, 2026-10-10» de `brain/comment-rules.md` es obligatoria.
