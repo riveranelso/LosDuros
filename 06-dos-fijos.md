@@ -28,3 +28,14 @@
 - Sin inventar pruebas, hechos o continuaciones.
 
 **[PENDIENTE DE VERIFICACION]** No existen aquí dos textos literales universales aprobados. Lo aprobado es su función y formato. Genera cada pareja con el contexto real de la pieza.
+
+
+## Refuerzo obligatorio — 2026-10-10
+
+- Si no se conoce el contexto real del post, preguntar «¿Cual es el post?» y esperar la aclaracion antes de redactar. No completar la historia con comentarios de terceros.
+- No introducir hechos, motivos ni conflictos ausentes del post, ni siquiera como premisa de una pregunta.
+- Aplicar correcciones de personas sin inventar otra narrativa.
+- FIJO 2 debe conservar una razon concreta para compartir y un CTA breve y contextual de seguir, salvo instruccion de Nelson de quitarlo.
+- Cuando se solicite una mejora, cambiar de verdad el gancho o enfoque; no repetir el mismo texto con sinonimos.
+- Maximo un emoji dentro de cada copy por defecto. El 📌 de la etiqueta no cuenta. Pedir «emojis» no autoriza a apilarlos.
+- Revisar ambos fijos contra la seccion «Correcciones obligatorias — Nelson, 2026-10-10» de `brain/comment-rules.md` antes de entregarlos.
