@@ -155,3 +155,13 @@ Aplican a todas las respuestas, fijos y copy de LOS DUROS; no son reglas exclusi
 7. **Preflight obligatorio.** Antes de entregar: comprobar contexto suficiente, referente correcto, cero premisas inventadas, mejora real, dos funciones distintas, CTA acorde a la instruccion vigente, mayusculas y cantidad de emojis. Si falla el contexto, volver a la pregunta «¿Cual es el post?».
 8. **Auditoria honesta.** Al explicar errores, describir lo que realmente se escribio. No convertir una interpretacion dudosa en un hecho ni atribuirse un error de nombre que no ocurrio en el texto.
 9. **Persistencia verificable.** No decir «guardado en ZION», «sincronizado» o «activo en el worker» por haberlo escrito en el chat o en GitHub. Distinguir publicacion del repositorio de sincronizacion y carga efectiva en el runtime, y confirmar cada estado solo con evidencia.
+
+## Enforcement obligatorio — Nelson, 2026-10-10 (segunda ampliacion)
+
+Leer y aplicar `../20-zion-autonomia-y-enforcement.md` antes de responder, proponer piezas o conversar con Blaze. Es parte obligatoria de este protocolo; no basta guardar el documento sin cargarlo en el agente.
+
+Correccion especifica del default de emojis: el caption corto de IG lleva exactamente DOS emojis y DOS lineas, mas CINCO hashtags separados (`../07-caption-ig.md`). El maximo general de un emoji sigue aplicando a los fijos y copy largo segun su formato, salvo instruccion explicita.
+
+Revisar todas las reglas aplicables antes de la primera entrega; si falla alguna, corregir internamente antes de enviar. No limitarse a arreglar MAYUSCULAS dejando premisas inventadas, FIJO 2 sin funcion SHARE/FOLLOW, hashtags ausentes o horarios sin fundamento.
+
+Las reparaciones necesarias dentro del encargo autorizado se resuelven sin repetir solicitudes de permiso. No declarar sincronizacion, aprendizaje o activacion sin evidencia del runtime.
