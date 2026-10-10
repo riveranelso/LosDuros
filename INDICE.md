@@ -53,3 +53,10 @@ Los archivos numerados `01–19` amplían ese núcleo con el contexto entregado 
 - Esta ampliación autoriza incorporar el conocimiento al workspace de LOS DUROS. **No autoriza publicar comentarios, mensajes ni piezas en redes.**
 - No se construyó infraestructura nueva en Python para almacenar estas reglas; se usa el mecanismo existente (archivos markdown en el workspace).
 - Nelson usa "C" como instrucción de continuar.
+
+## Ampliacion obligatoria — 2026-10-10
+
+- `20-zion-autonomia-y-enforcement.md`: instrucciones actuales de Nelson sobre autonomia, reparaciones, conversacion con Blaze, contexto, verificacion, CERO CHOTIAERA, formatos por pieza, assets, radar/vidIQ, gate previo y persistencia.
+- `AGENTS.md`: entrada de lectura obligatoria para agentes que trabajan con este brain.
+- `brain/comment-rules.md` referencia la nueva ampliacion y aclara que IG corto lleva DOS emojis, prevaleciendo sobre el default general de uno.
+- Publicado en GitHub no significa sincronizado o activo en la VM; verificar esos estados por separado.
